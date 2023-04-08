@@ -78,7 +78,7 @@ function Experiences() {
               <h4 className="header">
                 Certified Integration Technologist {`(C.I.T)`}
               </h4>
-              <h4 className="header">Henry Schein</h4>
+              <h4 className="header">Henry Schein Dental</h4>
               <ul>
                 <li>
                   Provided technical support to customers for software issues
