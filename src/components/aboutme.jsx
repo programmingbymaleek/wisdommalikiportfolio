@@ -8,7 +8,6 @@ import { DiSass, DiGitBranch } from "react-icons/di"
 import { FaReact } from "react-icons/fa"
 import { TbBrandNextjs, TbBrandJavascript } from "react-icons/tb"
 import { ImHtmlFive } from "react-icons/im"
-import etl from '../assets/developer_entities/etl.png'
 import { IoLogoCss3 } from "react-icons/io"
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
